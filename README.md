@@ -11,3 +11,5 @@ Change this lines with your bot and spotify credentials:
 BOT_TOKEN: str = ""
 SPOTIFY_ID: str = ""
 SPOTIFY_SECRET: str = ""
+
+# TODO: Fix README
